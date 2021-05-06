@@ -1,0 +1,3 @@
+[submodule "youtube-dl"]
+	path = youtube-dl
+	url = https://github.com/animelover1984/youtube-dl.git
