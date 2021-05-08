@@ -1,3 +1,10 @@
+# Warning!
+
+Youtube marks all videos, uploaded via unverified API, as private.
+
+[https://developers.google.com/youtube/v3/docs/videos/insert](https://developers.google.com/youtube/v3/docs/videos/insert):
+>All videos uploaded via the videos.insert endpoint from unverified API projects created after 28 July 2020 will be restricted to private viewing mode. To lift this restriction, each API project must undergo an audit to verify compliance with the Terms of Service. Please see the API Revision History for more details.
+
 # NicoVideo -> Youtube reuploader
 
 CLI tool to reupload videos from NicoVideo to Youtube.
